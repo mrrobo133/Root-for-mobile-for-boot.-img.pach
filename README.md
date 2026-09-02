@@ -5,7 +5,14 @@
 ---
 
 ## Features
- install zip
+ ## Android Root Tool Engine
+
+### Setup Instructions
+
+1. Navigate to the **Releases** page of this repository to download the main engine zip file (`main.py.zip`).
+2. Save or move the downloaded `main.py.zip` file directly into your device's **Download** folder (`/sdcard/Download/`).
+3. Extract the script and run it inside your Termux environment to begin the boot image patching process.
+
 
 ---
 
@@ -29,10 +36,6 @@ chmod +x install.sh
 
 ./install.sh
 ```
-
-𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗯𝗼𝘁.𝗶𝗺𝗴 𝗽𝗮𝗰𝗵 𝗰𝗼𝗺𝗺𝗮𝗻𝗱
-```bash
-mkdir -p binaries && curl -L -o binaries/magiskboot_arm64 "https://raw.githubusercontent.com/topjohnwu/magisk-files/master/magiskboot/arm64-v8a/magiskboot" && curl -L -o binaries/magiskboot_armv7 "https://raw.githubusercontent.com/topjohnwu/magisk-files/master/magiskboot/armeabi-v7a/magiskboot" && curl -L -o binaries/magiskboot_x86_64 "https://raw.githubusercontent.com/topjohnwu/magisk-files/master/magiskboot/x86_64/magiskboot" && curl -L -o binaries/magiskboot_x86 "https://raw.githubusercontent.com/topjohnwu/magisk-files/master/magiskboot/x86/magiskboot" && chmod +x binaries/magiskboot_* && echo -e "\n[+] All architecture binaries downloaded successfully!"
 
 ```
 
