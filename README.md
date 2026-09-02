@@ -17,7 +17,7 @@
 Run the following commands in your Termux terminal to clone and set up the tool automatically:
 
 ```bash
-git clone 
+git clone https://github.com/mrrobo133/Root-for-mobile-for-boot.-img.pach.git
 ```
 ```bash
 cd root-tool
