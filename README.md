@@ -73,7 +73,7 @@ images.
 
 ​Termux Community – For building and maintaining a powerful Linux environment on Android.
 
-​Project Maintainer / Developer – fgg56865 – Architect and developer of the Root-Tool automation wrapper
+​Project Maintainer / Developer –  – Architect and developer of the Root-Tool automation wrapper
 
 
 
