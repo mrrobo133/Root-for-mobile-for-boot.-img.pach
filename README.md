@@ -5,10 +5,7 @@
 ---
 
 ## Features
-
-* **Zero Local Dependencies**: No manual zip file handling or local asset bundling required. Automatically detects system architecture and fetches the correct binaries on-the-fly.
-* **Multi-Architecture Support**: Native compatibility for `aarch64`, `armv7l`, `x86_64`, and `x86`.
-* **Streamlined Deployment**: One-command installation and execution pipeline.
+ install zip
 
 ---
 
